@@ -1,0 +1,37 @@
+{
+    "python.defaultInterpreterPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
+    "yaml.schemas": {
+        "file:///c%3A/Users/foxxy/.vscode/extensions/atlassian.atlascode-2.8.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "git.enableSmartCommit": true,
+    "vim.commandLineModeKeyBindingsNonRecursive": [
+    
+    ],
+    "vim.easymotion": true,
+   "vim.incsearch": true,
+   "vim.useSystemClipboard": true,
+   "vim.useCtrlKeys": true,
+   "vim.hlsearch": true,
+   "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  }
+}
+
